@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-test/static/js/main.beed9dfd.js",
+    "index.html": "/react-test/index.html",
+    "main.beed9dfd.js.map": "/react-test/static/js/main.beed9dfd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beed9dfd.js"
+  ]
+}
